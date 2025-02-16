@@ -2,7 +2,7 @@
 #define DEFS_H
 #define MAX_COMPONENTS 256
 
-#define CuColour unsigned long
+#define CuColour unsigned long 
 
 
 struct Rectangle{
