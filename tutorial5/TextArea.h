@@ -23,6 +23,7 @@ class TextArea {
 		void print() const;
 		void setFill(RGB colour);
 		void setBorder(RGB colour);
+        string getId();
 };	
 
 #endif

@@ -56,3 +56,5 @@ void TextArea::setFill(RGB colour) {
 void TextArea::setBorder(RGB colour) {
 	this->border = colour;
 }
+
+string TextArea::getId() { return id; }
